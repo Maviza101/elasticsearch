@@ -18,7 +18,7 @@ For more information on the get operation, check out the REST
 ==== Operation Threading
 
 The get API allows to set the threading model the operation will be
-performed when the actual execution of the API is performed on the same
+performed with when the actual execution of the API is performed on the same
 node (the API is executed on a shard that is allocated on the same
 server).
 
